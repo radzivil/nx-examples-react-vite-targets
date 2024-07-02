@@ -1,0 +1,9 @@
+{
+  "name": "my-app-with-vite-bundler",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/my-app-with-vite-bundler/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project my-app-with-vite-bundler --web",
+  "targets": {}
+}
